@@ -1,0 +1,17 @@
+# Secrets and local credentials
+.env
+*.env
+google_client_secret.json
+google_token.json
+client_secret*.json
+*token*.json
+
+# Personal/job application data
+*.pdf
+resume*
+*contact*
+
+# Local tooling
+.DS_Store
+Thumbs.db
+__pycache__/
